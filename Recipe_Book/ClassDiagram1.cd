@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Recipe_Book.Author" Collapsed="true">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACwgAACAAAAAAUAAAEQAQEAIBAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Author.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Base&lt;T&gt;">
+    <Position X="2.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Base.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.DBXml" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAAAAAAAAAAIAAAAAhAAAAAAAAAAAAAAAQ=</HashCode>
+      <FileName>DBXml.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormAbout" Collapsed="true">
+    <Position X="11" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>kIAAAAgAACAgCAUAAACAAAADAAAAEIAAAAAAAAAAAAA=</HashCode>
+      <FileName>FormAbout.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormAuthor" Collapsed="true">
+    <Position X="12.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AwkIAIAQAmREAgAAAAKAAiCKAAgQBEAFAAAAEEGBAAg=</HashCode>
+      <FileName>FormAuthor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormMain" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAQACAAASQAAgAAAACIAAACEAIAAAhgEAAAAAAAAEA=</HashCode>
+      <FileName>FormMain.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormProduct" Collapsed="true">
+    <Position X="9.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAAEAAAACQIAASAQDCAQAJCAEAQIAAAEApAAAARAAk=</HashCode>
+      <FileName>FormProduct.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormRecipe" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAATDgAACAAAFKAAAACAAAOEAAEAgZAASgAkAw=</HashCode>
+      <FileName>FormRecipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormRecipeViewer" Collapsed="true">
+    <Position X="12.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AYIAgAAgSCEAEAAkAACAAAICACAIARAEgAAAAAEAAAQ=</HashCode>
+      <FileName>FormRecipeViewer.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.FormSerializationPanel" Collapsed="true">
+    <Position X="7.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACAAAAAAQCAAAAAAAACAAAACAAAAAAAAAABAAIAAAAA=</HashCode>
+      <FileName>FormSerializationPanel.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Product">
+    <Position X="2.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAEAAAAIASAAAAAAAAAAAAAAAAABAA=</HashCode>
+      <FileName>Product.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.ProductRecipe">
+    <Position X="5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAABAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>ProductRecipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Program" Collapsed="true">
+    <Position X="9.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Recipe">
+    <Position X="0.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAgAAAgAAAEAAAAAAQAAAAAAAAAAAAAAAAABAQ=</HashCode>
+      <FileName>Recipe.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Properties.Resources" Collapsed="true">
+    <Position X="11" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AIIgYIwAAAAAAoAAAAARUEAIEUQgBAGAKARg9EKCIIQ=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Recipe_Book.Properties.Settings" Collapsed="true">
+    <Position X="12.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

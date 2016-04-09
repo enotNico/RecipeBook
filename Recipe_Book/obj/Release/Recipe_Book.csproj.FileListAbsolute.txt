@@ -1,0 +1,68 @@
+D:\Курсова\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe
+D:\Курсова\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.pdb
+D:\Курсова\Recipe_Book\Recipe_Book\bin\Release\uk-UA\Recipe_Book.resources.dll
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAbout.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAuthor.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormProduct.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipe.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.Properties.Resources.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.uk-UA.resources
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csproj.GenerateResource.Cache
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\uk-UA\Recipe_Book.resources.dll
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.exe
+D:\Курсова\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.pdb
+E:\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe.config
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.exe
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.pdb
+E:\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe
+E:\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.pdb
+E:\krBachup\Recipe_Book\Recipe_Book\bin\Release\uk-UA\Recipe_Book.resources.dll
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csprojResolveAssemblyReference.cache
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAbout.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAuthor.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormProduct.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipe.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipeViewer.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormSerializationPanel.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.Properties.Resources.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.uk-UA.resources
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csproj.GenerateResource.Cache
+E:\krBachup\Recipe_Book\Recipe_Book\obj\Release\uk-UA\Recipe_Book.resources.dll
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe.config
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.exe
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.pdb
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.pdb
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\uk-UA\Recipe_Book.resources.dll
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csprojResolveAssemblyReference.cache
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAbout.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAuthor.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormProduct.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipe.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipeViewer.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormSerializationPanel.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.Properties.Resources.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.uk-UA.resources
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csproj.GenerateResource.Cache
+C:\Work Directory\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\uk-UA\Recipe_Book.resources.dll
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe.config
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.exe
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.pdb
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.exe
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\Recipe_Book.pdb
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\bin\Release\uk-UA\Recipe_Book.resources.dll
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csprojResolveAssemblyReference.cache
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAbout.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormAuthor.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormProduct.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipe.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormRecipeViewer.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormSerializationPanel.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.Properties.Resources.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.FormMain.uk-UA.resources
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\Recipe_Book.csproj.GenerateResource.Cache
+F:\Навчання\1 Курс\2 симестр\krBachup\Recipe_Book\Recipe_Book\obj\Release\uk-UA\Recipe_Book.resources.dll

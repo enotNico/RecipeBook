@@ -1,0 +1,231 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8FB80C73-7959-4FA0-9EE0-F55AD83EB48D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Recipe_Book</RootNamespace>
+    <AssemblyName>Recipe_Book</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject>Recipe_Book.Program</StartupObject>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>Resources\CookIcon.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Runtime.Serialization.Formatters.Soap" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Serialization" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Author.cs" />
+    <Compile Include="Base.cs" />
+    <Compile Include="DBXml.cs" />
+    <Compile Include="FormAbout.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAbout.Designer.cs">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormAuthor.Designer.cs">
+      <DependentUpon>FormAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormMain.Designer.cs">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormProduct.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormProduct.Designer.cs">
+      <DependentUpon>FormProduct.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRecipe.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRecipe.Designer.cs">
+      <DependentUpon>FormRecipe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormRecipeViewer.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormRecipeViewer.Designer.cs">
+      <DependentUpon>FormRecipeViewer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormSerializationPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormSerializationPanel.Designer.cs">
+      <DependentUpon>FormSerializationPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Product.cs" />
+    <Compile Include="ProductRecipe.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Recipe.cs" />
+    <EmbeddedResource Include="FormAbout.resx">
+      <DependentUpon>FormAbout.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormAuthor.resx">
+      <DependentUpon>FormAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormMain.uk-UA.resx">
+      <DependentUpon>FormMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormProduct.resx">
+      <DependentUpon>FormProduct.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRecipe.resx">
+      <DependentUpon>FormRecipe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormRecipeViewer.resx">
+      <DependentUpon>FormRecipeViewer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormSerializationPanel.resx">
+      <DependentUpon>FormSerializationPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Icon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-Cook-icon6.png" />
+    <None Include="Resources\Без імені1.png" />
+    <None Include="Resources\Без імені.png" />
+    <None Include="Resources\cookbook.jpg" />
+    <None Include="Resources\cooking-with-a-wok-stir-frying1.jpg" />
+    <None Include="Resources\4ef9cdb63bfb3890781aeac020491382.png" />
+    <None Include="Resources\00aaa.png" />
+    <None Include="Resources\старая-бумага-14920112.jpg" />
+    <None Include="Resources\oldKar.png" />
+    <None Include="Resources\scroll_old_paper_21.png" />
+    <None Include="Resources\scroll_old_paper_2.png" />
+    <None Include="Resources\ware25.jpg" />
+    <None Include="Resources\kak-zakonservirovat-borshh_2.jpg" />
+    <None Include="Resources\cooking-with-a-wok-stir-frying.jpg" />
+    <None Include="Resources\notepad-1083254-m1.jpg" />
+    <None Include="Resources\notepad-1083254-m.jpg" />
+    <None Include="Resources\VS-811623.jpg" />
+    <None Include="Resources\VS-811622.jpg" />
+    <None Include="Resources\VS-811621.jpg" />
+    <None Include="Resources\VS-81162.jpg" />
+    <None Include="Resources\VS-811612.jpg" />
+    <None Include="Resources\VS-811611.jpg" />
+    <None Include="Resources\VS-81161.jpg" />
+    <None Include="Resources\products_01.jpg" />
+    <None Include="Resources\food rainbow.jpg" />
+    <None Include="Resources\sr-1.4 0001.jpg" />
+    <None Include="Resources\32x32-black-white-metro-edit-icon.png" />
+    <None Include="Resources\64x64-black-white-metro-edit-icon.png" />
+    <None Include="Resources\pencil_4-20110811154100-00035.png" />
+    <None Include="Resources\book-16-48.png" />
+    <None Include="Resources\Editing-Delete-icon1.png" />
+    <None Include="Resources\Users-Cook-icon5.png" />
+    <None Include="Resources\Users-Cook-icon4.png" />
+    <None Include="Resources\Editing-Delete-icon.png" />
+    <None Include="Resources\Cook-Book-icon1.png" />
+    <None Include="Resources\Users-Cook-icon3.png" />
+    <None Include="Resources\Cook-Book-icon.png" />
+    <None Include="Resources\Users-Cook-icon2.png" />
+    <None Include="Resources\Users-Cook-icon1.png" />
+    <None Include="Resources\Users-Cook-icon.png" />
+    <None Include="Resources\paper66.jpg" />
+    <None Include="Resources\pomid.png" />
+    <None Include="Resources\cookbook1.jpg" />
+    <None Include="Resources\huh.jpg" />
+    <None Include="Resources\kap.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\CookIcon.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\pri-khranenii-produktov-v-kholodilnike.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old-recipe-book.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\old-recipe-book1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\polaroid_1_insight_designs3-e1339333496674.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
